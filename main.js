@@ -1,2 +1,2 @@
 console.log('Hello World!');
-location.reload(10000);
+//location.reload(10000);
