@@ -1,2 +1,3 @@
-console.log('Hello World!');
-//location.reload(10000);
+setTimeout(function(){
+  location.reload()
+},5000);
